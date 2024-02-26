@@ -2,7 +2,7 @@
   ╔════════ஓ๑♡๑ஓ════════╗
 <p/>
 
-# 🌸 Hello, Karen Here! 🌸 
+# 🌸 Hello! Karen Here 🌸 
 
 ## 【🌺】ABOUT ME 
 - Currently in High School
