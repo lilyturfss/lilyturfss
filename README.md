@@ -18,13 +18,13 @@
 </div>
 
 ## 【🌺】Languages
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilyturfss&layout=compact&theme=omni&langs_count=6&card_width=445)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilyturfss&theme=omni)
 
 <div class="space">
 </div>
 
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 <p align="center">
   ╚════════ஓ๑♡๑ஓ════════╝
