@@ -13,7 +13,7 @@
 ## 【🌷】Status
 <div style="text-align: center;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdmOXR6a2UzY2txandpdDU4c202MGlycXQyaWowdTNkNDA4eWdqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wf9dyOrB0nGJn5FIYf/giphy.gif" height="205">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilyturfss&show_icons=true&theme=omni&custom_title=GitHub+Stats" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=lilyturfss&show_icons=true&theme=omni" alt="GitHub Stats">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FpZXIzNHIzbDF3MWdvYXFmbmFyOHBwemppMTU1cmY5MmV6ZGljYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3YAxVrJrjWIeeADRM7/giphy.gif" height="205">
 </div>
 
