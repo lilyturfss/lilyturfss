@@ -5,7 +5,7 @@
 # 🌸 Hello! Karen Here 🌸 
 
 ## 【🌺】ABOUT ME 
-- Currently in High School
+- Student
 - Insane as per my friends' description
 - Typical Bullet Point Enjoyer :)
 - Also Typical Gif Enjoyer
