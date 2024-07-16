@@ -1,9 +1,3 @@
-<p align="center">
-
-<p/>
-
-#  Hello
-
 ## ABOUT ME 
 - Student
 
