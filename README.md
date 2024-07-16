@@ -1,5 +1,7 @@
 ## ABOUT ME 
 - Student
+- Python Certified
+- SQL Certified
 
 ## Status
   [![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilyturfss&theme=omni&show_icons=true)](https://github.com/lilyturfss/github-readme-stats)
